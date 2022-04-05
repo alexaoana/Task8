@@ -1,6 +1,6 @@
 ﻿namespace Task8
 {
-    public class Service
+    public class Service : IService
     {
         public decimal TotalPriceToPay(Order order)
         {

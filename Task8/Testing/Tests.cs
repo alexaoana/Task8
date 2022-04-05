@@ -79,14 +79,14 @@ namespace Testing
             [Test]
             public void Returns0IfNoProductOrders()
             {
-                var mockDataAccess = new Mock<Service>();
+                var mockDataAccess = new Mock<IService>();
                 var order = new Order
                 {
                     Id = 1,
                     ProductOrders = new List<ProductOrder>()
                 };
                 mockDataAccess.Setup(m => m.TotalPriceToPay(order)).Returns(0);
-                var service = new Service();
+                var service = mockDataAccess.Object;
                 
                 service.TotalPriceToPay(order);
                 mockDataAccess.Verify(m => m.TotalPriceToPay(order), Times.Once());
