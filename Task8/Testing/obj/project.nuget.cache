@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UOpbm6ZfQvpNbNauujvbe1Mh/d+xmnEn3gF92cY5L5EECif7Ku+cqRkQkmXOpXSTHv9sucbDr52HFqJy+Spaew==",
+  "dgSpecHash": "0mDObCIMRdo9gEz/gRuTvNZeIXJAGztnLo7MSr2MMw0iWFuw9kH4iCirUI2Yw12FQ0TLfQNw5HGG0kVRv9PovQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oana.alexa\\Desktop\\OOP Fundamental and C#\\Task8\\Task8\\Testing\\Testing.csproj",
+  "projectFilePath": "C:\\Users\\oana.alexa\\Desktop\\OOP Fundamental and C#\\Task8\\Task8\\Testing\\Testing-NUnit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oana.alexa\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\oana.alexa\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",

@@ -4912,9 +4912,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oana.alexa\\Desktop\\OOP Fundamental and C#\\Task8\\Task8\\Testing\\Testing.csproj",
-      "projectName": "Testing",
-      "projectPath": "C:\\Users\\oana.alexa\\Desktop\\OOP Fundamental and C#\\Task8\\Task8\\Testing\\Testing.csproj",
+      "projectUniqueName": "C:\\Users\\oana.alexa\\Desktop\\OOP Fundamental and C#\\Task8\\Task8\\Testing\\Testing-NUnit.csproj",
+      "projectName": "Testing-NUnit",
+      "projectPath": "C:\\Users\\oana.alexa\\Desktop\\OOP Fundamental and C#\\Task8\\Task8\\Testing\\Testing-NUnit.csproj",
       "packagesPath": "C:\\Users\\oana.alexa\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\oana.alexa\\Desktop\\OOP Fundamental and C#\\Task8\\Task8\\Testing\\obj\\",
       "projectStyle": "PackageReference",
